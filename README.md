@@ -1,8 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/f6/84/6c/f6846c6a6d128ac0106eea3a85a0125a.gif)
 <h1 align="center">Hi 👋, I'm Esra</h1>
-<h3 align="center">Computer Engineer</h3>
-
-- 🌱 
+<h3 align="center">Computer Engineer</h3> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
