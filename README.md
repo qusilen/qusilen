@@ -58,15 +58,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=qusilen&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qusilen&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qusilen&layout=compact&theme=tokyonight" alt="languages" />
 </p>
 
 ---
